@@ -241,8 +241,7 @@ h6{
 .list{
     list-style: none;
     text-align: end;
-    position: absolute;
-    bottom: 0px;
+   
     font-family: 'Source Sans Pro';
 }
 .list_top{
@@ -259,8 +258,6 @@ strong{
 .list_middle{
     list-style: none;
     text-align: end;
-    position: absolute;
-    bottom: 120px;
+   
     font-family: 'Source Sans Pro';
-}
 }
