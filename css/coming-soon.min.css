@@ -265,3 +265,7 @@ strong {
     text-align: end;
     font-family: 'Source Sans Pro';
 }
+.stat {
+        width: 32px;
+    height: 32px;
+}
