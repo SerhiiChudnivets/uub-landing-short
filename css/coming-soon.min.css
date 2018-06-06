@@ -278,3 +278,12 @@ strong {
     
     margin-left: 15px;
 }
+.pad{
+    padding-top:5px !important;
+    padding-bottom: 5px !important;
+}
+.pad-x-25{
+padding-left:25px !important;
+padding-right: 25px !important;
+
+}
